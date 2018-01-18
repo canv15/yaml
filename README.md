@@ -1,4 +1,6 @@
 # YAML support for the Go language
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fyaml.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fyaml?ref=badge_shield)
+
 
 Introduction
 ------------
@@ -133,3 +135,7 @@ b:
   - 4
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fyaml.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fyaml?ref=badge_large)
